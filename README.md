@@ -1,6 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=TEAM%20TWO&fontSize=90&f=#000)
 
-(http://18.190.159.239:3000/)
+You can check our WebPage!!  
+http://18.190.159.239:3000/
 
 # 1차프로젝트 포트폴리오
 
