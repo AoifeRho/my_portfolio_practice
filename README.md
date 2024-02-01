@@ -7,7 +7,7 @@
 + 팀장:[엄현빈]
 + 개발자
     + [엄현빈](https://uhb4.github.io/#)
-    + [이재우](https://unbreakablesh.github.io/#))
+    + [이재우](https://unbreakablesh.github.io/#)
     + [노가현](https://aoiferho.github.io/#)
     + [김여진](https://yeojin10044.github.io/#)
 
