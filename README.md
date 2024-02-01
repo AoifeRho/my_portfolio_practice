@@ -49,10 +49,10 @@ http://18.190.159.239:3000/
 ### 주요기능
 
 + 사진 슬라이드 기능
-   -슬라이드 갤러리
-   ![slide_gallery.gif](/imageFile/Animation1.gif)  
+   -슬라이드 갤러리  
+   ![slide_gallery.gif](/imageFile/Animation1.gif)    
    -jQuery를 활용한 폰트 움직임  
-   ![Font_Move.gif](/imageFile/Animation2.gif)
+   ![Font_Move.gif](/imageFile/Animation2.gif)  
 + 동영상 재생 기능 
 + 챗봇 기능
 + 챗봇 기능
