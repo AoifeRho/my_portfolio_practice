@@ -5,11 +5,12 @@
 
 #### 팀원소개
 + 팀장:[엄현빈]
-+ 개발자:
-+ 엄현빈
-+ 이재우
-+ 노가현
-+ 김여진
++ 개발자
+    + [엄현빈](https://uhb4.github.io/#)
+    + [이재우](https://unbreakablesh.github.io/#))
+    + [노가현](https://aoiferho.github.io/#)
+    + [김여진](https://yeojin10044.github.io/#)
+
 ***
 # 프로젝트 개요 
 ### 프로젝트 명 : 남성 스포츠 의류 브랜드 쇼핑몰     
