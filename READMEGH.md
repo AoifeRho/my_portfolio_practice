@@ -34,7 +34,8 @@
 #### 브랜드 홈페이지 
    -슬라이드 갤러리
    ![slide_gallery.gif](/imageFile/Animation1.gif)  
-   jQuery를 활용한 폰트 움직임
+   -jQuery를 활용한 폰트 움직임  
+   ![Font_Move.gif](/imageFile/Animation2.gif)
 #### 회사소개 페이지
    jQuery를 활용한 폰트와 차트 animate 효과
    동영상 삽입
